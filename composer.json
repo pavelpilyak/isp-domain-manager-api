@@ -1,0 +1,13 @@
+{
+  "name": "pavelpilyak/isp-domain-manager-api",
+  "type": "library",
+  "description": "ISP API Domain Manager",
+  "keywords": ["isp", "api"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pavel Pilyak",
+      "role": "Developer"
+    }
+  ]
+}
